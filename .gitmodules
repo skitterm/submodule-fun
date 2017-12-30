@@ -1,0 +1,6 @@
+[submodule "submodule-fun-submodule"]
+	path = submodule-fun-submodule
+	url = git@github.com:skitterm/submodule-fun-submodule.git
+[submodule "submodule-dont-delete"]
+	path = submodule-dont-delete
+	url = git@github.com:skitterm/submodule-dont-delete.git
